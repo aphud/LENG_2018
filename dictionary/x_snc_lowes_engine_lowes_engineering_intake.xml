@@ -59,6 +59,7 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Par Number (Project #)" max_length="40" name="u_par_number" type="string"/>
+        <element label="Rework Request" max_length="40" name="u_rework_request_tf" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Storage" max_length="40" name="u_storage_type" type="string">
             <choice>
                 <element label="NAS" sequence="0" value="NAS"/>

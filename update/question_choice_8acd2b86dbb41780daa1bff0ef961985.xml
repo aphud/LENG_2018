@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <misc>0</misc>
+        <order>600</order>
+        <question display_value="Environment">184d2786dbb41780daa1bff0ef961918</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-14 03:39:05</sys_created_on>
+        <sys_id>8acd2b86dbb41780daa1bff0ef961985</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Performance</sys_name>
+        <sys_package display_value="Lowes Engineering Intake" source="x_snc_lowes_engine">ee6e9f0edb741780daa1bff0ef961912</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lowes Engineering Intake">ee6e9f0edb741780daa1bff0ef961912</sys_scope>
+        <sys_update_name>question_choice_8acd2b86dbb41780daa1bff0ef961985</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-14 03:39:05</sys_updated_on>
+        <text>Performance</text>
+        <value>Performance</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=8acd2b86dbb41780daa1bff0ef961985"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>8acd2b86dbb41780daa1bff0ef961985</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-14 03:39:06</sys_created_on>
+        <sys_id>86dd6b86dbb41780daa1bff0ef961930</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-14 03:39:06</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>8acd2b86dbb41780daa1bff0ef961985</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-14 03:39:05</sys_created_on>
+        <sys_id>4edd6b86dbb41780daa1bff0ef96192f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-14 03:39:05</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>
