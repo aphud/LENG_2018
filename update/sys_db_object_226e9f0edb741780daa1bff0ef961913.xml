@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Lowes Engineering Intake</label>
+        <live_feed_enabled>true</live_feed_enabled>
+        <name>x_snc_lowes_engine_lowes_engineering_intake</name>
+        <number_ref display_value="LENG">0b6e538edb741780daa1bff0ef9619b7</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <super_class display_value="Task" name="task">faf2df77db300300dde7d49fdf96190b</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-14 02:31:42</sys_created_on>
+        <sys_id>226e9f0edb741780daa1bff0ef961913</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Lowes Engineering Intake</sys_name>
+        <sys_package display_value="Lowes Engineering Intake" source="x_snc_lowes_engine">ee6e9f0edb741780daa1bff0ef961912</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lowes Engineering Intake">ee6e9f0edb741780daa1bff0ef961912</sys_scope>
+        <sys_update_name>sys_db_object_226e9f0edb741780daa1bff0ef961913</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-14 02:31:43</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_snc_lowes_engine.user" name="x_snc_lowes_engine.user">b66e538edb741780daa1bff0ef961977</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="live_feed=true" extends="task" label="Lowes Engineering Intake" max_length="40" name="x_snc_lowes_engine_lowes_engineering_intake" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Customer Impact" max_length="40" name="u_customer_impact" type="string">
+            <choice>
+                <element label="Stores" sequence="0" value="Stores"/>
+                <element label="RVP" sequence="1" value="RVP"/>
+                <element label="RDC" sequence="2" value="RDC"/>
+                <element label="FDC" sequence="3" value="FDC"/>
+                <element label="Millworks" sequence="4" value="Millworks"/>
+                <element label="CSC" sequence="5" value="CSC"/>
+                <element label="Other" sequence="6" value="Other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Database" max_length="40" name="u_database_type" type="string">
+            <choice>
+                <element label="Oracle" sequence="0" value="Oracle"/>
+                <element label="SQL Server" sequence="1" value="SQL Server"/>
+                <element label="UDB" sequence="2" value="UDB"/>
+                <element label="Sybase" sequence="3" value="Sybase"/>
+                <element label="Teradata" sequence="4" value="Teradata"/>
+                <element label="DB2" sequence="5" value="DB2"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Priority" max_length="40" name="u_eng_priority" type="string">
+            <choice>
+                <element label="Less than 15 days" sequence="0" value="Less than 15 days"/>
+                <element label="30 Days" sequence="1" value="30 Days"/>
+                <element label="60 Days" sequence="2" value="60 Days"/>
+                <element label="90 Days" sequence="3" value="90 Days"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Environment" max_length="40" name="u_environment_type" type="string">
+            <choice>
+                <element label="Development" sequence="0" value="Development"/>
+                <element label="Test" sequence="1" value="Test"/>
+                <element label="QA" sequence="2" value="QA"/>
+                <element label="DR" sequence="3" value="DR"/>
+                <element label="Production" sequence="4" value="Production"/>
+                <element label="Performance" sequence="5" value="Performance"/>
+                <element label="Other" sequence="6" value="Other"/>
+            </choice>
+        </element>
+        <element label="Network Request" max_length="40" name="u_network_request_tf" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Network Type" max_length="40" name="u_network_type" type="string">
+            <choice>
+                <element label="Segmentation" sequence="0" value="Segmentation"/>
+                <element label="Firewall" sequence="1" value="Firewall"/>
+                <element label="F5" sequence="2" value="F5"/>
+                <element label="Other" sequence="3" value="Other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Server OS Type" max_length="40" name="u_os_type" type="string">
+            <choice>
+                <element label="Windows" sequence="0" value="Windows"/>
+                <element label="Linux" sequence="1" value="Linux"/>
+                <element label="AIX" sequence="2" value="AIX"/>
+                <element label="Other" sequence="3" value="Other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Par Number (Project #)" max_length="40" name="u_par_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Storage" max_length="40" name="u_storage_type" type="string">
+            <choice>
+                <element label="NAS" sequence="0" value="NAS"/>
+                <element label="VMAX" sequence="1" value="VMAX"/>
+                <element label="VPLEX" sequence="2" value="VPLEX"/>
+                <element label="EXTREME IO" sequence="3" value="EXTREME IO"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="VP Tower" max_length="40" name="u_vp_tower" type="string"/>
+    </element>
+</database>

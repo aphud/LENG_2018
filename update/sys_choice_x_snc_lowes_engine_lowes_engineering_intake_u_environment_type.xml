@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_environment_type" table="x_snc_lowes_engine_lowes_engineering_intake" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_environment_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Development</label>
+            <language>en</language>
+            <name>x_snc_lowes_engine_lowes_engineering_intake</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 02:53:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>46636b02dbb41780daa1bff0ef961938</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 02:53:29</sys_updated_on>
+            <value>Development</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_environment_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Test</label>
+            <language>en</language>
+            <name>x_snc_lowes_engine_lowes_engineering_intake</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 02:53:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>46636b02dbb41780daa1bff0ef96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 02:53:29</sys_updated_on>
+            <value>Test</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_environment_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>QA</label>
+            <language>en</language>
+            <name>x_snc_lowes_engine_lowes_engineering_intake</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 02:53:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>82636b02dbb41780daa1bff0ef96193c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 02:53:29</sys_updated_on>
+            <value>QA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_environment_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DR</label>
+            <language>en</language>
+            <name>x_snc_lowes_engine_lowes_engineering_intake</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 02:53:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ce636b02dbb41780daa1bff0ef96193d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 02:53:29</sys_updated_on>
+            <value>DR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_environment_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Production</label>
+            <language>en</language>
+            <name>x_snc_lowes_engine_lowes_engineering_intake</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 02:53:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0e636b02dbb41780daa1bff0ef96193f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 02:53:29</sys_updated_on>
+            <value>Production</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_environment_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Performance</label>
+            <language>en</language>
+            <name>x_snc_lowes_engine_lowes_engineering_intake</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 02:53:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4a636b02dbb41780daa1bff0ef961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 02:53:29</sys_updated_on>
+            <value>Performance</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_environment_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_snc_lowes_engine_lowes_engineering_intake</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 02:53:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>86636b02dbb41780daa1bff0ef961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 02:53:29</sys_updated_on>
+            <value>Other</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_environment_type</element>
+            <name>x_snc_lowes_engine_lowes_engineering_intake</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 02:53:29</sys_created_on>
+            <sys_id>02636b02dbb41780daa1bff0ef96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_environment_type</sys_name>
+            <sys_package display_value="Lowes Engineering Intake" source="x_snc_lowes_engine">ee6e9f0edb741780daa1bff0ef961912</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Lowes Engineering Intake">ee6e9f0edb741780daa1bff0ef961912</sys_scope>
+            <sys_update_name>sys_choice_x_snc_lowes_engine_lowes_engineering_intake_u_environment_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 02:53:29</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

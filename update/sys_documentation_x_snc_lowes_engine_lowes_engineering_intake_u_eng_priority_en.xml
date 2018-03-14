@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_eng_priority" label="Priority" language="en" table="x_snc_lowes_engine_lowes_engineering_intake">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_eng_priority</element>
+            <help/>
+            <hint/>
+            <label>Priority</label>
+            <language>en</language>
+            <name>x_snc_lowes_engine_lowes_engineering_intake</name>
+            <plural>Priorities</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 02:53:29</sys_created_on>
+            <sys_id>f5632b02dbb41780daa1bff0ef96199b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Priority</sys_name>
+            <sys_package display_value="Lowes Engineering Intake" source="x_snc_lowes_engine">ee6e9f0edb741780daa1bff0ef961912</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Lowes Engineering Intake">ee6e9f0edb741780daa1bff0ef961912</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_lowes_engine_lowes_engineering_intake_u_eng_priority_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 02:53:29</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

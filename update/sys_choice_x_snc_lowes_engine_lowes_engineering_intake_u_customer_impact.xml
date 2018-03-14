@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_customer_impact" table="x_snc_lowes_engine_lowes_engineering_intake" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_customer_impact</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Stores</label>
+            <language>en</language>
+            <name>x_snc_lowes_engine_lowes_engineering_intake</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 02:53:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ca636b02dbb41780daa1bff0ef961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 02:53:29</sys_updated_on>
+            <value>Stores</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_customer_impact</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RVP</label>
+            <language>en</language>
+            <name>x_snc_lowes_engine_lowes_engineering_intake</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 02:53:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ca636b02dbb41780daa1bff0ef96194a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 02:53:30</sys_updated_on>
+            <value>RVP</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_customer_impact</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RDC</label>
+            <language>en</language>
+            <name>x_snc_lowes_engine_lowes_engineering_intake</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 02:53:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0a636b02dbb41780daa1bff0ef96194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 02:53:30</sys_updated_on>
+            <value>RDC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_customer_impact</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FDC</label>
+            <language>en</language>
+            <name>x_snc_lowes_engine_lowes_engineering_intake</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 02:53:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>46636b02dbb41780daa1bff0ef96194e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 02:53:30</sys_updated_on>
+            <value>FDC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_customer_impact</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Millworks</label>
+            <language>en</language>
+            <name>x_snc_lowes_engine_lowes_engineering_intake</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 02:53:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>82636b02dbb41780daa1bff0ef961950</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 02:53:30</sys_updated_on>
+            <value>Millworks</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_customer_impact</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CSC</label>
+            <language>en</language>
+            <name>x_snc_lowes_engine_lowes_engineering_intake</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 02:53:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ce636b02dbb41780daa1bff0ef961951</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 02:53:30</sys_updated_on>
+            <value>CSC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_customer_impact</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_snc_lowes_engine_lowes_engineering_intake</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 02:53:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0e636b02dbb41780daa1bff0ef961953</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 02:53:30</sys_updated_on>
+            <value>Other</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_customer_impact</element>
+            <name>x_snc_lowes_engine_lowes_engineering_intake</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 02:53:30</sys_created_on>
+            <sys_id>86636b02dbb41780daa1bff0ef96194a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_customer_impact</sys_name>
+            <sys_package display_value="Lowes Engineering Intake" source="x_snc_lowes_engine">ee6e9f0edb741780daa1bff0ef961912</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Lowes Engineering Intake">ee6e9f0edb741780daa1bff0ef961912</sys_scope>
+            <sys_update_name>sys_choice_x_snc_lowes_engine_lowes_engineering_intake_u_customer_impact</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 02:53:30</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

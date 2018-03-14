@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_vp_tower" label="VP Tower" language="en" table="x_snc_lowes_engine_lowes_engineering_intake">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_vp_tower</element>
+            <help/>
+            <hint/>
+            <label>VP Tower</label>
+            <language>en</language>
+            <name>x_snc_lowes_engine_lowes_engineering_intake</name>
+            <plural>VP Towers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-14 02:41:57</sys_created_on>
+            <sys_id>4dc0e3cedb741780daa1bff0ef961957</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>VP Tower</sys_name>
+            <sys_package display_value="Lowes Engineering Intake" source="x_snc_lowes_engine">ee6e9f0edb741780daa1bff0ef961912</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Lowes Engineering Intake">ee6e9f0edb741780daa1bff0ef961912</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_lowes_engine_lowes_engineering_intake_u_vp_tower_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-14 02:41:57</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
