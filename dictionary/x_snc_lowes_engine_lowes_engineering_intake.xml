@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element attributes="live_feed=true" extends="task" label="Lowes Engineering Intake" max_length="40" name="x_snc_lowes_engine_lowes_engineering_intake" type="collection">
+    <element attributes="live_feed=true" extends="task" label="Lowes Engineering Intake" max_length="40" name="x_snc_lowes_engine_lowes_engineering_intake" sizeclass="9" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="1" label="Customer Impact" max_length="40" name="u_customer_impact" type="string">
             <choice>
                 <element label="Stores" sequence="0" value="Stores"/>

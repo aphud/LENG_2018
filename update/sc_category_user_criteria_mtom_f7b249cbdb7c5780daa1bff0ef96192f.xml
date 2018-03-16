@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_category_user_criteria_mtom">
+    <sc_category_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_category display_value="Server Builds">0b51898bdb7c5780daa1bff0ef961978</sc_category>
+        <sys_class_name>sc_category_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-16 17:45:29</sys_created_on>
+        <sys_id>f7b249cbdb7c5780daa1bff0ef96192f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Server Builds.Any User</sys_name>
+        <sys_package display_value="Lowes Engineering Intake" source="x_snc_lowes_engine">ee6e9f0edb741780daa1bff0ef961912</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lowes Engineering Intake">ee6e9f0edb741780daa1bff0ef961912</sys_scope>
+        <sys_update_name>sc_category_user_criteria_mtom_f7b249cbdb7c5780daa1bff0ef96192f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-16 17:45:29</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_category_user_criteria_mtom>
+</record_update>
